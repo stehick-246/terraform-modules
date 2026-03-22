@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Updated CI cache strategy
 - Cross-checked behaviour against spec
 - Added inline documentation for core functions
+
+## 2026-03-22
+- Ran linter, applied auto-fixes
+- Drafted initial implementation plan for v2
