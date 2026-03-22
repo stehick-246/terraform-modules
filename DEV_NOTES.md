@@ -21,3 +21,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-22
 - Verified compatibility with latest runtime version
+
+## 2026-03-22
+- Verified API endpoint response schema
+- Resolved deprecation warnings
